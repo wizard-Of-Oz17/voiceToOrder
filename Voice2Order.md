@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Voice-to-Order Feature for Riggle: Transforming B2B FMCG Ordering Through Voice Technology
 
 Based on the search results and analysis of Riggle's business model, implementing a voice-to-order feature represents a significant opportunity to revolutionize B2B FMCG ordering in India. Riggle, a Mumbai-based B2B SaaS platform by Potluck Technologies, currently serves retailers, wholesalers, and manufacturers through digital ordering solutions across Mumbai, Thane, and Navi Mumbai[^1][^14]. The proposed voice ordering system would enable retailers to place orders using natural language commands in Hindi, English, and Hinglish, such as "Hare wale Lays ke chaar packet" (four packets of green Lays), addressing the significant language and usability barriers that exist in traditional digital ordering systems.
